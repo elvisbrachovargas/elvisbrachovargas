@@ -32,12 +32,13 @@
 
 - ☁️ he estado interesado en aprender  **AWS**
 
-- 📝
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📝 Soy ingeniero en informatica
+  
+- 💬  **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 sientete libre de contactarme  **elvisbrachovargas@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** en Linkdln –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 o si quieres saludame por linkdin **👋** en Linkdin –  [elvisbrachovargas](https://www.linkedin.com/in/elvis-bracho-493738380/) my username!
 <!--Intro end-->
 
 
