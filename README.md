@@ -12,9 +12,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/elvisbrachovargas/elvisbrachovargas/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
+
 
 
 <!--h2 without bottom border-->
@@ -99,8 +99,11 @@
 </div>
 
 <!--icons and links-->
+## 🤝 Conecta conmigo
 <p align="center">
-<a href="https://www.linkedin.com/in/elvis-bracho-493738380//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>   
+  <a href="https://www.linkedin.com/in/elvis-bracho-493738380/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="50" width="50" />
+  </a>
 </p>
 
 
