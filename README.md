@@ -34,7 +34,7 @@
 
 - 📝 Soy ingeniero en informatica 
   
-- 💬  
+- 💬  Estoy aprendiendo a ser mejor profesional
 
 - 📫 sientete libre de contactarme  **elvisbrachovargas@gmail.com**
 
