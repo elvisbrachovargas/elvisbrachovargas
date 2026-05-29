@@ -12,7 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/elvisbrachovargas/elvisbrachovargas/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  
+  ![snake gif](https://github.com/elvisbrachovargas/elvisbrachovargas/blob/output/github-snake-dark.svg)
 </div>
 
 
